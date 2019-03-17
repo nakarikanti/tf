@@ -1,0 +1,37 @@
+Congratulations on making it this far!
+We're excited to have you on this journey into TensorFlow -- this is just the beginning! In the coming weeks, here are the additional lessons that will be added into this classroom:
+
+Turn a binary classifier into a multi-class classifier
+You'll expand your image classifiers into models that can predict from multiple classes. And, you'll use a convolutional network to build a classifier for more detailed color images.
+
+Transfer Learning
+You'll learn to use a pre-trained network to build powerful state-of-the-art classifiers.
+
+Saving and Loading Models
+Look at the new SAVEDMODEL format in TensorFlow 2.0 and take advantage of it for TensorFlow-Lite and TensorFlow-Serving
+
+Machine Learning on devices with TensorFlow Lite
+Learn how you can use TensorFlow Lite to build machine learning apps on Android, iOS and iOT devices.
+
+Machine Learning in the Cloud with TensorFlow-Serving
+Use TensorFlow-Serving to deploy a machine learning model to the cloud.
+
+Machine Learning in-the-browser with TensorFlow.js
+Use TensorFlow.js to train models and make predictions all in a browser
+
+Machine Learning-based products and services from Google
+Learn about MLKit, ML services on Google Cloud Platform, and put your models on these infrastructures.
+
+The Workflow of Machine Learning
+You'll learn about the workflow of Machine Learning and the steps that lead to success. And, learn how to get data, define the problem, understand success, and build and evaluate models.
+
+Managing Data
+Learn about data structures in TensorFlow, including tensors and how to manipulate them. And, you'll learn how to get data into TensorFlow from common sources, from CSV to BigQuery.
+
+Exploring Neural Nets in Keras
+Dive deep into the inner workings of TensorFlow to learn about tensor operations, gradient-based optimization, and graphs. And, use the Keras layers API to build complex neural networks.
+
+Going deeper into Neural Nets
+You'll learn from sequential data with recurrent neural networks, and unsupervised learning with generative adversarial networks.
+
+We hope you're just as excited as we for this journey! You'll find the next batch of lessons in your classroom by April 16th 12 PM PST. Till then, good luck!
